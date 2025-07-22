@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+دریچه => اولین و بزرگترین سایت فروش آنلاین همه نوع کالا در افغانستان.
 <html lang="fa" dir="rtl">
 <head>
     <meta charset="UTF-8">
