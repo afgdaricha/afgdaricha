@@ -99,7 +99,7 @@
         <div class="bg-blue-600 text-white py-2">
             <div class="container mx-auto px-4 flex justify-between items-center text-sm">
                 <div class="flex items-center space-x-4 space-x-reverse">
-                    <span>📞 +93 700 123 456</span>
+                    <span>📞 +93 708 901 903</span>
                     <span>✉️ info@daricha.af</span>
                 </div>
                 <div class="flex items-center space-x-4 space-x-reverse">
@@ -137,15 +137,15 @@
                                 <i class="fas fa-search"></i>
                             </button>
                         </div>
-                        <button id="advancedSearchBtn" class="absolute left-16 top-1/2 transform -translate-y-1/2 text-gray-500 hover:text-blue-600">
+                        <button id="advancedSearchBtn" class="absolute left-12 top-1/3 transform -translate-y-1/3 text-gray-500 hover:text-blue-600">
                             <i class="fas fa-sliders-h"></i>
                         </button>
                     </div>
                     
                     <!-- Advanced Search -->
-                    <div id="advancedSearch" class="search-advanced bg-white border border-gray-200 rounded-lg mt-2 p-4">
+                    <div id="advancedSearch" class="search-advanced bg-white border border-gray-120 rounded-lg mt-2 p-4">
                         <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-                            <select class="border border-gray-300 rounded px-3 py-2">
+                            <select class="border border-gray-200 rounded px-3 py-2">
                                 <option>همه دسته‌ها</option>
                                 <option>لباس و پوشاک</option>
                                 <option>دیجیتال</option>
@@ -159,7 +159,7 @@
                                 <option>تزئینی</option>
                                 <option>وسایل نقلیه</option>
                             </select>
-                            <select class="border border-gray-300 rounded px-3 py-2">
+                            <select class="border border-gray-200 rounded px-3 py-2">
                                 <option>همه ولایات</option>
                                 <option>کابل</option>
                                 <option>هرات</option>
@@ -197,8 +197,8 @@
                                 <option>پنجشیر</option>
                             </select>
                             <div class="flex space-x-2 space-x-reverse">
-                                <input type="number" placeholder="حداقل قیمت" class="border border-gray-300 rounded px-3 py-2 w-1/2">
-                                <input type="number" placeholder="حداکثر قیمت" class="border border-gray-300 rounded px-3 py-2 w-1/2">
+                                <input type="number" placeholder="حداقل قیمت" class="border border-gray-200 rounded px-2 py-1/2 w-1/2">
+                                <input type="number" placeholder="حداکثر قیمت" class="border border-gray-200 rounded px-2 py-1/2 w-1/2">
                             </div>
                         </div>
                     </div>
